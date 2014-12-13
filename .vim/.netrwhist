@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/home/konoiz/reserch/memo'
+let g:netrw_dirhist_2='/usr/home/konoiz/.vim/bundle/neocomplete.vim'
+let g:netrw_dirhist_3='/usr/home/konoiz/RoR/Stapp/config'
+let g:netrw_dirhist_4='/usr/home/konoiz/RoR/Stapp/app/views'
+let g:netrw_dirhist_5='/usr/home/konoiz/RoR/Stapp/app'
+let g:netrw_dirhist_6='/usr/home/konoiz/RoR/Stapp/app/controllers'
+let g:netrw_dirhist_7='/usr/home/htdocs/exp'
+let g:netrw_dirhist_8='/usr/home/htdocs/exp/app/controllers'
